@@ -1,1 +1,1 @@
-Hello I am Rajkishor Sahu. 
+ I'm Rajkishor, a skilled web developer well-versed in C, C++, and JavaScript. With a robust tech stack encompassing HTML, CSS, and proficiency in frameworks like React and Node.js, I specialize in delivering comprehensive web solutions. My expertise extends from crafting visually appealing front-end designs to developing robust back-end functionalities. Let's collaborate and leverage this tech arsenal to elevate your web projects!
